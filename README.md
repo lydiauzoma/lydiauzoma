@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Jesse Uzoma!</h1>
+<h1 align="center">👋 Hello! I'M Lydia uzoma </h1>
 <h3 align="center">I'm open to new job opportunities and challenges</h3>
 
 [![Github views](https://komarev.com/ghpvc/?username=HeDevedUp&style=flat-square&color=green)](https://github.com/shelcia)<div align="left" width="50%">
@@ -14,9 +14,9 @@
 <div>
   
 ### Contact me:
-  <a href="mailto:uzomaesse@gmail.com?subject=Want%20to%20contact" target="_blank"><img align="left" alt="uzomaesse@gmail.com" width="22px" src="https://github.com/twbs/icons/blob/main/icons/envelope-fill.svg" /></a>
-  <a href="https://www.linkedin.com/in/jesseuzoma/" target="_blank"><img align="left" alt="jesse uzoma LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a/>
-    <a href="https://twitter.com/devtochi" target="_blank"><img align="left" alt="dev tochi Twitter Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /><a/>
+  <a href="mailto:lydiauzoma@yahoo.com?subject=Want%20to%20contact" target="_blank"><img align="left" alt="uzomaesse@gmail.com" width="22px" src="https://github.com/twbs/icons/blob/main/icons/envelope-fill.svg" /></a>
+  <a href="https://www.linkedin.com/in/lydia uzoma/" target="_blank"><img align="left" alt="jesse uzoma LinkedIn Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a/>
+    <a href="https://twitter.com/she_deved_up" target="_blank"><img align="left" alt="dev tochi Twitter Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /><a/>
 <br />
   
 ---
@@ -24,19 +24,13 @@
 ### 🛠 &nbsp;Languages and Technologies:
 
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/htm-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/-original-wordmark.svg" title="C" alt="C" width="40" height="40"/>&
+  <img src="https://github.com/devicons/devicon/blob/master/icons/-original.svg" title="python" alt="python" width="40" height="40"/>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
