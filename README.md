@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'M Lydia uzoma </h1>
+<h1 align="center">👋 Hello! I'm Lydia uzoma </h1>
 <h3 align="center">I'm open to new job opportunities and challenges</h3>
 
 [![Github views](https://komarev.com/ghpvc/?username=HeDevedUp&style=flat-square&color=green)](https://github.com/shelcia)<div align="left" width="50%">
@@ -43,10 +43,10 @@
   <br>
 
  <div align="center">
-   <img height="auto" width="91%" src="https://github-readme-stats.vercel.app/api?username=HeDevedUp&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="uzom jesse Github Stats" />
+   <img height="auto" width="91%" src="https://github-readme-stats.vercel.app/api?username=HeDevedUp&show_icons=true&count_private=true&hide_border=true&title_color=FADD92&icon_color=FADD92&text_color=c9d1d9&bg_color=0d1117" alt="lydia uzoma  Github Stats" />
 </div>
 <div align="center">  
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeDevedUp&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" alt="Jesse Uzoma Most Used Languages" />
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=she_deved_up&layout=compact&hide_border=true&title_color=FADD92&text_color=FADD92&bg_color=0d1117" alt="Jesse Uzoma Most Used Languages" />
   <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=HeDevedUp&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=FADD92&fire=FADD92&currStreakLabel=FADD92" alt="Jesse Uzoma Github Current Streak" /> 
 </div>
 
