@@ -4,13 +4,13 @@
 [![Github views](https://komarev.com/ghpvc/?username=HeDevedUp&style=flat-square&color=green)](https://github.com/shelcia)<div align="left" width="50%">
   <h2> About me </h2>
   
-  I'm a pragmatic front-end Web craftman  with a passion for technology and software engineering looking to work with great people and solve challenging problems. Ever eager to learn and work outside of my comfort zone. 
+  I'm a pragmatic software engineering student   with a passion for technology and software engineering looking to work with great people and solve challenging problems. Ever eager to learn and work outside of my comfort zone. 
   
 **My goal as a developer is to build digital solutions that solve real-world problems, provide value for businesses, and help people.**
 
   - 💻 I’m currently learning how to improve my code quality using SOLID principles and Design Patterns. 
-  - 💬 Ask me about Node.js, REST APIs, React and Redux.
-  - ⚡ Quote: Living, learning, & leveling up! 
+  - 💬 Ask me about C, Pythons, HTML  CSSand javascript.
+  - ⚡ Quote: DO HARD THINGS!!! 
 <div>
   
 ### Contact me:
