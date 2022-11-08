@@ -9,7 +9,7 @@
 **My goal as a developer is to build digital solutions that solve real-world problems, provide value for businesses, and help people.**
 
   - 💻 I’m currently learning how to improve my code quality using SOLID principles and Design Patterns. 
-  - 💬 Ask me about C, Pythons, HTML  CSSand javascript.
+  - 💬 Ask me about C, Python, HTML  CSSand javascript.
   - ⚡ Quote: DO HARD THINGS!!! 
 <div>
   
