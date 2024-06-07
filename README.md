@@ -1,19 +1,32 @@
 # 👋 Hi there, I'm Lydia Uzoma!
 
 ## About Me
+👋 Hi there! I'm a pragmatic Cloud Engineer with a passion for technology and problem-solving. Over the past year, I embarked on an exciting journey, relocating to London to pursue a Master's in Computer Science. I thrive on challenges and constantly seek opportunities to learn and apply new technologies.
 
-I'm a pragmatic software engineering student with a passion for technology and problem-solving. Over the past year, I've embarked on an exciting journey, moving to London and pursuing a Master's in Computing. I thrive on challenges, constantly seeking opportunities to learn and apply new technologies.
+##🔧 Skills and Interests:
+
+##Cloud Computing (AWS)
+DevOps and CI/CD
+Containerization (Docker, Kubernetes)
+Scripting and Automation (Python, Bash)
+Infrastructure as Code (Terraform, CloudFormation)
+Machine Learning and Data Science
+💡 Current Focus:
+
+Mastering advanced cloud architectures and solutions
+Exploring the intersection of cloud computing and machine learning
+Contributing to open-source projects and collaborating with the tech community
 
 ## 🚀 Goals and Philosophy
 
-As a developer, my goal is to craft digital solutions that address real-world problems, add value to businesses, and make a positive impact. Currently, I'm focused on enhancing my code quality through the implementation of SOLID principles and Design Patterns.
+As a cloud engineer, my goal is to craft digital solutions that address real-world problems, add value to businesses, and make a positive impact. Currently, I'm focused on enhancing my code quality through the implementation of SOLID principles and Design Patterns.
 
 > ⚡ "DO HARD THINGS!!!"
 
 ## 📬 Contact Me
 
 - 📧 Email: [lydiauzoma@yahoo.com](mailto:lydiauzoma@yahoo.com)
-- 💼 LinkedIn: [Lydia Uzoma](https://www.linkedin.com/in/lydia-uzoma/)
+- 💼 LinkedIn: [Lydia Uzoma[]](https://www.linkedin.com/in/lydia-uzoma-0294362a8/)
 - 🐦 Twitter: [@she_deved_up](https://twitter.com/she_deved_up)
 
 ---
