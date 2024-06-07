@@ -2,10 +2,8 @@
 
 ## About Me
 👋 Hi there! I'm a pragmatic Cloud Engineer with a passion for technology and problem-solving. Over the past year, I embarked on an exciting journey, relocating to London to pursue a Master's in Computer Science. I thrive on challenges and constantly seek opportunities to learn and apply new technologies.
-
-##🔧 Skills and Interests:
-
-##Cloud Computing (AWS)
+🔧 Skills and Interests:
+ Cloud Computing (AWS)
 DevOps and CI/CD
 Containerization (Docker, Kubernetes)
 Scripting and Automation (Python, Bash)
